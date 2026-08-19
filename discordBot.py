@@ -11,7 +11,7 @@ async def on_ready():
     view = discord.ui.View()
     view.add_item(discord.ui.Button(label="Otvori forum", url=forum_url))
     
-    await ch.send("Forum je ažuriran !", view=view)
+    await ch.send("@everyone \nForum je ažuriran !", view=view)
     await client.close()
 
 client.run(token)
