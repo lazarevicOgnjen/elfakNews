@@ -1,58 +1,65 @@
-Fizika (I semestar)
+FIZIKA (I SEMESTAR)
 
 OBAVEŠTENJA:
 
-Rezultati pismenog dela ispita i termini usmenog dela ispita u roku Jun 2
+Grupne konsultacije iz Fizike za pripremu ispita u oktobarskom roku održaće se u sredu, 11. septembra u 12 časova, učionica 231.
 
-Pregled radova je u utorak, 21.7.2026. u 11 časova, kabinet 327.
+Rezultati pismenog dela ispita u septembarskom ispitnom roku
+
+Pregled radova je u sredu, 28.8.2024. u 12 časova, kabinet 327.
+
+Na usmeni deo ispita u septembarskom roku pozivaju se:
+
+kod prof. dr Gorana Ristića, sala E2
+
+četvrtak, 29.8.2024. u 11 časova: 16186-17286
+petak, 30.8.2024. u 11 časova: 17298-17998
+ponedeljak, 2.9.2024. u 11 časova: 18011-18335
+utorak, 3.9.2024. u 11 časova: 18388-19599
+sreda, 4.9.2024. u 11 časova: 19619-19878
+
+kod prof. dr Emilije Živanović, kabinet 324
+
+ponedeljak, 2.9.2024. u 10 časova: 18462, 19506-19515, 19949-20007
 
 PREDAVANJA:
 
-Ispitna pitanja
+Ispitna pitanja [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
-Fizika – knjiga
+Fizika – knjiga [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
-Zvučni izvori – dodatak za učenje
+Statika – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
-Fizika – knjiga predavanja na engleskom
+Zvučni izvori – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
 RAČUNSKE VEŽBE:
 
-Zadaci za pripremu ispita
+Zadaci za pripremu ispita (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span” ]
 
-Rešeni zadaci
+Rešeni zadaci (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
+
+Fotometrija (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
 LABORATORIJSKE VEŽBE:
 
-Laboratorijski praktikum
-
-Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja
+Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
 Video prezentacije:
 
-1a vežba – Određivanje ubrzanja Zemljine teže pomoću matematičkog klatna
+1a vežba – Odredivanje ubrzanja Zemljine teže pomocu matematickog klatna [wp-svg-icons icon=”youtube” wrap=”i”]
 
-1b vežba – Određivanje Jungovog modula elasticnosti žice
+1b vežba – Odredivanje Jungovog modula elasticnosti žice [wp-svg-icons icon=”youtube” wrap=”i”]
 
-2a vežba – Određivanje momenta inercije tela pomoću torzionog klatna
+2a vežba – Odredivanje momenta inercije tela pomocu torzionog klatna [wp-svg-icons icon=”youtube” wrap=”i”]
 
-2b vežba – Određivanje momenta inercije tela primenom Štajnerove teoreme
+2b vežba – Odredivanje momenta inercije tela primenom Štajnerove teoreme [wp-svg-icons icon=”youtube” wrap=”i”]
 
-3a vežba – Određivanje koeficijenta trenja pomoću strme ravni
+3a vežba – Odredivanje toplote isparavanja tecnosti [wp-svg-icons icon=”youtube” wrap=”i”]
 
-3b vežba – Određivanje koeficijenta viskoznosti glicerina Štoksovom metodom
+3b vežba – Odredivanje nepoznate temperature termoparom [wp-svg-icons icon=”youtube” wrap=”i”]
 
-4a vežba – Određivanje toplote isparavanja tečnosti 
+4a vežba – Odredivanje brzine zvuka u vazduhu [wp-svg-icons icon=”youtube” wrap=”i”]
 
-4b vežba – Određivanje nepoznate temperature termoparom
+4b vežba – Odredivanje viskoznosti glicerina [wp-svg-icons icon=”youtube” wrap=”i”]
 
-5a vežba – Određivanje brzine zvuka u vazduhu
-
-5b vežba – Primena zakona geometrijske optike i princip rada optičkih instrumenata
-
-REŠENI BLANKETI:
-
-April 2026
-Januar 2026
-I kolokvijum 2026
-Oktobar 3 2025
+5a vežba – Primena zakona geometrijske optike i princip rada optickih instrumenata [wp-svg-icons icon=”youtube” wrap=”i”]
