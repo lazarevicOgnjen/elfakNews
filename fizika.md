@@ -2,7 +2,14 @@ FIZIKA (I SEMESTAR)
 
 OBAVEŠTENJA:
 
-Grupne konsultacije iz Fizike za pripremu ispita u oktobarskom roku održaće se u sredu, 11. septembra u 12 časova, učionica 231.
+Raspored polaganja ispita u septembarskom roku (28.08.2026 u 09:00 h) po salama: 
+
+     A2: 15504 – 18584
+     K1 (451): 18605 – 20522
+     K5 (552): 20552 – 20835
+
+
+ 
 
 Rezultati pismenog dela ispita u septembarskom ispitnom roku
 
