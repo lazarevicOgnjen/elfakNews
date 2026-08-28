@@ -5,37 +5,15 @@ OBAVEŠTENJA:
 Raspored polaganja ispita u septembarskom roku (28.08.2026 u 09:00 h) po salama: 
 
      A2: 15504 – 18584
-     K1 (451): 18605 – 20522
+     K4 (451): 18605 – 20522
      K5 (552): 20552 – 20835
 
 
- 
-
-Rezultati pismenog dela ispita u septembarskom ispitnom roku
-
-Pregled radova je u sredu, 28.8.2024. u 12 časova, kabinet 327.
-
-Na usmeni deo ispita u septembarskom roku pozivaju se:
-
-kod prof. dr Gorana Ristića, sala E2
-
-četvrtak, 29.8.2024. u 11 časova: 16186-17286
-petak, 30.8.2024. u 11 časova: 17298-17998
-ponedeljak, 2.9.2024. u 11 časova: 18011-18335
-utorak, 3.9.2024. u 11 časova: 18388-19599
-sreda, 4.9.2024. u 11 časova: 19619-19878
-
-kod prof. dr Emilije Živanović, kabinet 324
-
-ponedeljak, 2.9.2024. u 10 časova: 18462, 19506-19515, 19949-20007
-
 PREDAVANJA:
 
-Ispitna pitanja [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Fizika – knjiga
 
-Fizika – knjiga [wp-svg-icons icon=”file-pdf” wrap=”span”]
-
-Statika – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Ispitna pitanja
 
 Zvučni izvori – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
@@ -43,9 +21,7 @@ RAČUNSKE VEŽBE:
 
 Zadaci za pripremu ispita (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span” ]
 
-Rešeni zadaci (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
-
-Fotometrija (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Primeri rešenih zadataka (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
 
 LABORATORIJSKE VEŽBE:
 
