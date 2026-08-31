@@ -9,7 +9,7 @@ Na usmeni deo ispita pozivaju se studenti koji imaju 50 ili više poena.
 Kod prof. Gorana Ristića (laboratorija 254):
 – sreda, 02.09., 9:00 h, studenti 15618 – 18010
 – četvrtak, 03.09., 9:00 h, studenti 18252 – 19632
-– petak, 04.09., 14:00 h, studenti 20085 – 20697
+– petak, 04.09., 12:30 h, studenti 20085 – 20697
 
 Kod prof. Emilije Živanović (kabinet 324):
 – petak, 04.09., 9:30 h
