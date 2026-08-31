@@ -1,13 +1,18 @@
-FIZIKA (I SEMESTAR)
+Fizika (I semestar)
 
 OBAVEŠTENJA:
 
-Raspored polaganja ispita u septembarskom roku (28.08.2026 u 09:00 h) po salama: 
+Rezultati pismenog dela ispita u ispitnom roku Septembar
+Pregled radova je u utorak, 01.09., u 13:30 h, u kabinetu 327.
 
-     A2: 15504 – 18584
-     K4 (451): 18605 – 20522
-     K5 (552): 20552 – 20835
+Na usmeni deo ispita pozivaju se studenti koji imaju 50 ili više poena.
+Kod prof. Gorana Ristića (laboratorija 254):
+– sreda, 02.09., 9:00 h, studenti 15618 – 18010
+– četvrtak, 03.09., 9:00 h, studenti 18252 – 19632
+– petak, 04.09., 14:00 h, studenti 20085 – 20697
 
+Kod prof. Emilije Živanović (kabinet 324):
+– petak, 04.09., 9:30 h
 
 PREDAVANJA:
 
