@@ -13,6 +13,8 @@ PREDAVANJA:
 
 Fizika – knjiga
 
+Physics – Book – Lectures in English
+
 Ispitna pitanja
 
 Zvučni izvori – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
