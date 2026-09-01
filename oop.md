@@ -1,1 +1,1 @@
-Wednesday, 26 August 2026, 11:57 AM
+Tuesday, 1 September 2026, 7:30 PM
