@@ -1,1 +1,1 @@
-Thursday, 3 September 2026, 3:00 PM
+Thursday, 3 September 2026, 5:45 PM
