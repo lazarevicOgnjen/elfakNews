@@ -22,34 +22,34 @@ Physics – Book – Lectures in English
 
 Ispitna pitanja
 
-Zvučni izvori – dodatak za učenje [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Zvučni izvori – dodatak za učenje
 
 RAČUNSKE VEŽBE:
 
-Zadaci za pripremu ispita (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span” ]
+Zadaci za pripremu ispita (PDF)
 
-Primeri rešenih zadataka (PDF) [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Primeri rešenih zadataka (PDF)
 
 LABORATORIJSKE VEŽBE:
 
-Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja [wp-svg-icons icon=”file-pdf” wrap=”span”]
+Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja
 
 Video prezentacije:
 
-1a vežba – Odredivanje ubrzanja Zemljine teže pomocu matematickog klatna [wp-svg-icons icon=”youtube” wrap=”i”]
+1a vežba – Određivanje ubrzanja Zemljine teže pomoću matematičkog klatna
 
-1b vežba – Odredivanje Jungovog modula elasticnosti žice [wp-svg-icons icon=”youtube” wrap=”i”]
+1b vežba – Određivanje Jungovog modula elastičnosti žice
 
-2a vežba – Odredivanje momenta inercije tela pomocu torzionog klatna [wp-svg-icons icon=”youtube” wrap=”i”]
+2a vežba – Određivanje momenta inercije tela pomoću torzionog klatna
 
-2b vežba – Odredivanje momenta inercije tela primenom Štajnerove teoreme [wp-svg-icons icon=”youtube” wrap=”i”]
+2b vežba – Određivanje momenta inercije tela primenom Štajnerove teoreme
 
-3a vežba – Odredivanje toplote isparavanja tecnosti [wp-svg-icons icon=”youtube” wrap=”i”]
+3a vežba – Određivanje toplote isparavanja tečnosti
 
-3b vežba – Odredivanje nepoznate temperature termoparom [wp-svg-icons icon=”youtube” wrap=”i”]
+3b vežba – Određivanje nepoznate temperature termoparom
 
-4a vežba – Odredivanje brzine zvuka u vazduhu [wp-svg-icons icon=”youtube” wrap=”i”]
+4a vežba – Određivanje brzine zvuka u vazduhu
 
-4b vežba – Odredivanje viskoznosti glicerina [wp-svg-icons icon=”youtube” wrap=”i”]
+4b vežba – Određivanje viskoznosti glicerina
 
-5a vežba – Primena zakona geometrijske optike i princip rada optickih instrumenata [wp-svg-icons icon=”youtube” wrap=”i”]
+5a vežba – Primena zakona geometrijske optike i princip rada optickih instrumenata
