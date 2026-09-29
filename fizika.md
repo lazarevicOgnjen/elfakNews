@@ -2,14 +2,20 @@ Fizika (I semestar)
 
 OBAVEŠTENJA:
 
-Raspored studenata po salama – ispitni rok Oktobar:
+Rezultati pismenog dela ispita u oktobarskom ispitnom roku
+Pregled radova je u četvrtak, 24.09., u 13 h, u kabinetu 327.
 
-Sala	Broj indeksa
-A1	15198 – 19218
-A2	19249 – 20618
-370 (K3)	20625 – 20847
+Na usmeni deo ispita pozivaju se studenti koju na pismenom delu imaju 50 ili više poena.
+Termini usmenog:
+Kod prof. Gorana Ristića – laboratorija 254 od 9 h:
+– petak, 25.09. – studenti od 15198 do 18400
+– ponedeljak, 28.09. – studenti od 18573 do 19624
+– utorak, 29.09. – studenti od 19818 – 20650
 
-BLANKETI SA REŠENJIMA IZ PREDHODNIH ROKOVA:
+Kod prof. Emilije Živanović – kabinet 324 od 10 h
+– petak, 25.09. – studenti 20742, 20789, 20809, 20814
+
+BLANKETI SA REŠENJIMA IZ PRETHODNIH ROKOVA:
 
 Oktobar 2026
 
