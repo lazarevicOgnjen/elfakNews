@@ -114,9 +114,9 @@ pagesList = {
     "id" : "1457420870170448108"
   },
 
-  "katedra" : {
-    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=1&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
-    "element" : '//*[@id="inst14"]/div',
+  "cs-homepage" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/",
+    "element" : '//*[@id="region-main"]/div',
     "id" : "1504952790689255564"
   }
 
