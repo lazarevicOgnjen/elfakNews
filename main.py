@@ -12,13 +12,10 @@ page.set_default_timeout(12000)
 # cs log in
 try:
     page.goto("https://cs.elfak.ni.ac.rs/nastava/login/index.php")
-    page.locator('a.login-identityprovider-btn').click()
-    page.locator('xpath=//*[@id="i0116"]').fill(os.environ['email'])
-    page.click('xpath=//*[@id="idSIButton9"]')
-    page.locator('xpath=//*[@id="i0118"]').fill(os.environ['password'])
-    page.click('xpath=//*[@id="idSIButton9"]')
-    page.locator('xpath=//*[@id="idBtn_Back"]').click()
-    page.wait_for_selector('xpath=//*[@id="page-header"]/div/div/div')
+    page.locator('xpath=//*[@id="username"]').fill(os.environ['email'])
+    page.locator('xpath=//*[@id="password"]').fill(os.environ['password'])
+    page.locator('xpath=//*[@id="loginbtn"]').click()
+    page.wait_for_selector('xpath=//*[@id="page-header"]/div/div[1]/div/div[1]')
 except Error as e:
     print(f"CS LOG IN: {e}")
     browser.close()
