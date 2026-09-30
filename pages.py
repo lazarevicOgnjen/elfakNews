@@ -116,7 +116,7 @@ pagesList = {
 
   "cs-homepage" : {
     "url" : "https://cs.elfak.ni.ac.rs/nastava/",
-    "element" : '//*[@id="region-main"]/div',
+    "element" : '//*[@id="site-news-forum"]',
     "id" : "1504952790689255564"
   }
 
