@@ -1,1 +1,1 @@
-Friday, 25 September 2026, 12:00 PM
+Thursday, 1 October 2026, 11:48 AM
