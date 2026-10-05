@@ -12,7 +12,7 @@ Kod prof. Gorana Ristića – laboratorija 254 od 9 h:
 – sreda, 07.10. – studenti od 18693 do 20625
 
 Kod prof. Emilije Živanović – kabinet 324 od 9:30 h
-– sreda, 06.10. – studenti 19952, 20018, 20708, 20789
+– sreda, 07.10. – studenti 19952, 20018, 20708, 20789
 
 BLANKETI SA REŠENJIMA IZ PRETHODNIH ROKOVA:
 
