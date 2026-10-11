@@ -1,4 +1,4 @@
-name: Pokreni prijavu ispita
+name: info bot
 
 on:
   schedule:

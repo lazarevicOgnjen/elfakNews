@@ -13,7 +13,7 @@ async def on_ready():
 
     fajl = discord.File("tabela.png")
     
-    await ch.send("Prijava ispita je pocela !", file=fajl, view=view)
+    await ch.send("@everyone \nPrijava ispita je pocela !", file=fajl, view=view)
     await client.close()
 
 client.run(token)
