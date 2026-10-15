@@ -2,17 +2,7 @@ Fizika (I semestar)
 
 OBAVEŠTENJA:
 
-Rezultati pismenog dela ispita u ispitnom roku Oktobar 2
-Pregled radova je u ponedeljak, 05.10., u 13 h, u kabinetu 327.
-
-Na usmeni deo ispita pozivaju se studenti koju na pismenom delu imaju 50 ili više poena.
-Termini usmenog:
-Kod prof. Gorana Ristića – laboratorija 254 od 9 h:
-– utorak, 06.10. – studenti od 16197 do 18680
-– sreda, 07.10. – studenti od 18693 do 20625
-
-Kod prof. Emilije Živanović – kabinet 324 od 9:30 h
-– sreda, 07.10. – studenti 19952, 20018, 20708, 20789
+Raspored održavanja laboratorijskih vežbi
 
 BLANKETI SA REŠENJIMA IZ PRETHODNIH ROKOVA:
 
@@ -36,6 +26,8 @@ Zadaci za pripremu ispita (PDF)
 Primeri rešenih zadataka (PDF)
 
 LABORATORIJSKE VEŽBE:
+
+Raspored održavanja laboratorijskih vežbi
 
 Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja
 
