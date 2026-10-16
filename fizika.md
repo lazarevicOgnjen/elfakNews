@@ -3,6 +3,7 @@ Fizika (I semestar)
 OBAVEŠTENJA:
 
 Raspored održavanja laboratorijskih vežbi
+Laboratorijski praktikum
 
 BLANKETI SA REŠENJIMA IZ PRETHODNIH ROKOVA:
 
@@ -28,6 +29,7 @@ Primeri rešenih zadataka (PDF)
 LABORATORIJSKE VEŽBE:
 
 Raspored održavanja laboratorijskih vežbi
+Laboratorijski praktikum
 
 Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja
 
