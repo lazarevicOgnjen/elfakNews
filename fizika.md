@@ -43,12 +43,14 @@ Video prezentacije:
 
 2b vežba – Određivanje momenta inercije tela primenom Štajnerove teoreme
 
-3a vežba – Određivanje toplote isparavanja tečnosti
+3a vežba – Određivanje koeficijenta trenja pomoću strme ravni
 
-3b vežba – Određivanje nepoznate temperature termoparom
+3b vežba – Određivanje viskoznosti glicerina
 
-4a vežba – Određivanje brzine zvuka u vazduhu
+4a vežba – Određivanje toplote isparavanja tečnosti
 
-4b vežba – Određivanje viskoznosti glicerina
+4b vežba – Određivanje nepoznate temperature termoparom
 
-5a vežba – Primena zakona geometrijske optike i princip rada optickih instrumenata
+5a vežba – Određivanje brzine zvuka u vazduhu
+
+5b vežba – Primena zakona geometrijske optike i princip rada optickih instrumenata
