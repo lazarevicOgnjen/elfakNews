@@ -96,6 +96,36 @@ pagesList = {
     "id" : "1451711248604467362"
   },
 
+  "rg" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=75&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
+    "element" : "time",
+    "id" : "1562826135190900828"
+  },
+
+  "nbp" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=36&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
+    "element" : "time",
+    "id" : "1562827423559585882"
+  },
+
+  "pp" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=70&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
+    "element" : "time",
+    "id" : "1562828139263172658"
+  },
+
+  "zi" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=81&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
+    "element" : "time",
+    "id" : "1562828791242428426"
+  },
+
+  "vi" : {
+    "url" : "https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=107&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=",
+    "element" : "time",
+    "id" : "1562829431192424518"
+  },
+
   "oet1" : {
     "url" : "https://eth.elfak.ni.ac.rs/?cat=4",
     "element" : '//*[@id="content"]',
