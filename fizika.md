@@ -2,6 +2,8 @@ Fizika (I semestar)
 
 OBAVEŠTENJA:
 
+Studenti sa brojem indeksa 21202-21212 (reupisani studenti) je potrebno da se jave predmetnom asistentu ukoliko su ranije odradili laboratorijske vežbe. 
+
 Raspored održavanja laboratorijskih vežbi
 Laboratorijski praktikum
 
