@@ -5,6 +5,7 @@ OBAVEŠTENJA:
 Studenti sa brojem indeksa 21202-21212 (reupisani studenti) je potrebno da se jave predmetnom asistentu ukoliko su ranije odradili laboratorijske vežbe. 
 
 Raspored održavanja laboratorijskih vežbi
+Raspored održavanja laboratorijskih vežbi za studente koji su se naknadno upisali
 Laboratorijski praktikum
 
 BLANKETI SA REŠENJIMA IZ PRETHODNIH ROKOVA:
@@ -31,6 +32,7 @@ Primeri rešenih zadataka (PDF)
 LABORATORIJSKE VEŽBE:
 
 Raspored održavanja laboratorijskih vežbi
+Raspored održavanja laboratorijskih vežbi za studente koji su se naknadno upisali
 Laboratorijski praktikum
 
 Uputstvo za pripremu i izradu laboratorijskih vežbi i pisanje izveštaja
