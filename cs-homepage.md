@@ -1,5 +1,10 @@
 Site announcements
 Subscribe to forum
+Konferencija XPERIENCE 2026 - besplatne kotizacije za studente
+by Leonid Stoimenov - Friday, 13 November 2026, 12:30 PM
+Organizatori konferencije XPERIENCE 2026 (https://paytech.events/xperience/) nude besplatne kotizacije za studente Elektronskog fakulteta. Konferencija se održava u Beogradu, 20.11.26. Molim vas da mi se zainteresovani jave do ponedeljka, 16.11.26. do 15h na email leonid.stoimenov@elfak.ni.ac.rs. U mailu navedite: - broj indeksa - ime i prezime - email adresa
+Permalink
+Discuss this topic  (0 replies so far)
 Javni poziv za prijavu timova za Bubble Cup
 by Admin User - Monday, 4 May 2026, 2:51 PM
 
@@ -10,22 +15,6 @@ Pripremna online runda, u kojoj timovi mogu rešavati zadatke za vežbu (bez bod
 Više informacija: https://www.petlja.org/sr-Latn-RS/n/javni-poziv-za-prijavu-za-bubble-cup/104753
 
 Zvanični sajt: www.bubblecup.org
-
-Permalink
-Discuss this topic  (0 replies so far)
-Obaveštenje o migraciji na novi server
-by PREDMETNI NASTAVNICI - Sunday, 26 April 2026, 9:54 PM
-
-Poštovani korisnici,
-Nalazite se na novom serveru platforme za podršku učenju Katedre za računarstvo.
-
-
-Svi kursevi su uspešno preneseni sa prethodnog servera. Sadržaj unutar samih kurseva je prenet delimično, u skladu sa izborom predmetnih nastavnika.
-
-
-Ukoliko primetite da vam na nekom kursu nedostaju određeni materijali ili podaci, molimo vas da se direktno obratite predmetnim nastavnicima ili saradnicima.
-
-Hvala na razumevanju.
 
 Permalink
 Discuss this topic  (0 replies so far)
